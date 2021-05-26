@@ -1,6 +1,6 @@
 {
-  "name": "@uniswap/interface",
-  "description": "Uniswap Interface",
+  "name": "@VDSwap",
+  "description": "VDSwap",
   "homepage": "https://dd90001.github.io/testuniswap",
   "private": true,
   "devDependencies": {
